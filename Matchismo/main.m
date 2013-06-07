@@ -6,7 +6,6 @@
 //  Copyright (c) 2013 DL. All rights reserved.
 //
 
-// check github works..
 
 #import <UIKit/UIKit.h>
 
